@@ -1,3 +1,4 @@
 ---
-- include: main-tasks.yml
+- include_tasks: 
+    file: main-tasks.yml
   tags: etckeeper
